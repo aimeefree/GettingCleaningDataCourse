@@ -8,7 +8,7 @@ run_analysis.R contains all the code to perform the steps needed to create the f
 
 TidyDataset.txt is the output of the final/tidy dataset.
 
-Steps followed to create the final tidy dataset are listed below and clearly labeled within the R code.
+# Steps followed to create the final tidy dataset are listed below and clearly labeled within the R code.
 
 1. Downloading required datasets
 2. Merging the training and the test sets to create one data set
